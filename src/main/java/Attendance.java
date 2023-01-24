@@ -20,10 +20,10 @@ public class Attendance {
 		this.present = present;
 	}
 
-	private Date date;
-	private Event event;
-	private Student student;
-	private boolean present;
+	 Date date;
+	 Event event;
+	 Student student;
+	 boolean present;
 
 	// boolean method to see if the student is present or not.
 	public boolean isPresent() {

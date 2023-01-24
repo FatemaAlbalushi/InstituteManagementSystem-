@@ -6,24 +6,23 @@ import java.util.List;
 public class CS extends Department {
 
 	
+	
+	
+
 		/**
 	 * @param name
 	 * @param staff
 	 * @param students
 	 * @param courses
 	 */
-	public CS(String name, List<Staff> staff, List<Student> students, List<Course> courses) {
-		super(name, staff);
+	public CS(String name1, List<Staff> staff1, List<Student> students, List<Course> courses) {
+		super(name1, staff1);
+		this.name = name1;
+		this.staff = staff1;
 		this.students = students;
 		this.courses = courses;
 	}
 
-		public CS(String name, List<Staff> staff) {
-		super(name, staff);
-		// TODO Auto-generated constructor stub
-	}
-		// TODO Auto-generated constructor stub
-		
 		List<Student> students;
 	    List<Course> courses;
 	    

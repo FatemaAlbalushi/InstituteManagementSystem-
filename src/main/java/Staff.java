@@ -20,11 +20,11 @@ public class Staff {
 		this.email = email;
 		this.address = address;
 	}
-		private int staffId;
-		private String name;
-		private String phone;
-		private String email;
-		private String address;
+		 int staffId;
+		 String name;
+		 String phone;
+		 String email;
+		 String address;
 		
 	
 

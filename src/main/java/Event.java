@@ -23,9 +23,9 @@ public class Event {
 		this.course = course;
 		this.teacher = teacher;
 	}
-	private String time;
-	private Date date;
-	private Course course;
-	private Teacher teacher;
+	 String time;
+	 Date date;
+	 Course course;
+	 Teacher teacher;
 
 }

@@ -20,10 +20,10 @@ public class Institute {
 		this.address = address;
 		this.departments = departments;
 	}
-	private String name;
-	private String phone;
-	private String email;
-	private String address;
-	private ArrayList<Department>departments;
+	 String name;
+	 String phone;
+	 String email;
+	 String address;
+	 ArrayList<Department>departments;
 
 }

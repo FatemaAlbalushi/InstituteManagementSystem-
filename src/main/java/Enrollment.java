@@ -18,14 +18,14 @@ public class Enrollment {
 		this.grade = grade;
 	}
 
-	private Student student;
-	private Course course;
-	private String status;
-	private double grade;
+	 Student student;
+	 Course course;
+	 String status;
+	 double grade;
 
 	public void setGrade(double grade) {
 
 	}
 
-
+ 
 }

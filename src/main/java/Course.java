@@ -25,12 +25,12 @@ public class Course {
 		this.maxEnrollment = maxEnrollment;
 	}
 
-	private int courseId;
-	private String name;
-	private Teacher teacher;
-	private ArrayList<Student> students;
-	private Department department;
-	private int maxEnrollment;
+	 int courseId;
+	 String name;
+	 Teacher teacher;
+	 ArrayList<Student> students;
+	 Department department;
+	 int maxEnrollment;
 
 	public int getMaxEnrollment() {
 		return maxEnrollment;

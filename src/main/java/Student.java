@@ -22,12 +22,12 @@ public class Student {
 		this.address = address;
 	}
 
-	private int studentId;
-	private String name;
-	private int age;
-	private String phone;
-	private String email;
-	private String address;
+	 int studentId;
+	 String name;
+	 int age;
+	 String phone;
+	 String email;
+	 String address;
 	
 
 	public void enrollCourse(Course course) {
