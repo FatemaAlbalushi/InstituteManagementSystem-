@@ -9,7 +9,6 @@ import java.util.List;
  * The Department class represents a department in the institute.
  * It contains the name of the department and lists of students, Staff, 
  * and courses associated with the department.
- *
  */
 public class Department {
 	/**
@@ -58,12 +57,7 @@ public class Department {
         return courses;
     }
     
-    /**
-     * Add a staff to the department
-     */
-	 public void addstaff() {	
-		
-	}
+    
 	
 	 
 	

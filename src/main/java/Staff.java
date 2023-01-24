@@ -2,9 +2,9 @@
 /**
  * Staff class sshows  a staff with staffId, name, phone , email,
  * address fields.
- *
  */
 public class Staff {
+	
 		/**
 	 * @param staffId
 	 * @param name

@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * Event class represent the class session and uses time,
  * date, course and teacher fields.
- *
  */
 public class Event {
 	/**

@@ -4,7 +4,6 @@ import java.util.ArrayList;
 /**
  * Course class to represent the course with couresId, name, teacher, student
  * and department.
- *
  */
 public class Course {
 	/**

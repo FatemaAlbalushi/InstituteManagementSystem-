@@ -3,7 +3,6 @@ import java.sql.Date;
 /**
  * Attendence class is for representing the attendence in the class room
  *  using date, event which is the class session and student 
- *
  */
 public class Attendance {
 	

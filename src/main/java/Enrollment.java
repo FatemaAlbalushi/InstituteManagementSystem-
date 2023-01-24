@@ -2,7 +2,6 @@
 /**
  * Enrollment class is to see each student enroll in which course
  * using student and course fields.
- *
  */
 public class Enrollment {
 	/**

@@ -2,7 +2,6 @@ import java.util.ArrayList;
 
 /**
  * Institute class represent an institue with name, phone, address, and department. 
- *
  */
 public class Institute {
 	
