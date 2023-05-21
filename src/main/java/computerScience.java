@@ -1,9 +1,9 @@
 import java.util.List;
 
 /**
- * CS class is computer Science Department enherited from department class
+ * computerScience class is computer Science Department enherited from department class
  */
-public class CS extends Department {
+public class computerScience extends Department {
 
 	
 	
@@ -15,7 +15,7 @@ public class CS extends Department {
 	 * @param students
 	 * @param courses
 	 */
-	public CS(String name1, List<Staff> staff1, List<Student> students, List<Course> courses) {
+	public computerScience(String name1, List<Staff> staff1, List<Student> students, List<Course> courses) {
 		super(name1, staff1);
 		this.name = name1;
 		this.staff = staff1;
@@ -23,8 +23,8 @@ public class CS extends Department {
 		this.courses = courses;
 	}
 
-		List<Student> students;
-	    List<Course> courses;
+		private List<Student> students;
+		private List<Course> courses;
 	    
 	    
 	    /**
